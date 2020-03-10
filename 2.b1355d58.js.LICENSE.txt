@@ -1,17 +1,15 @@
 /*!
-  Copyright (c) 2017 Jed Watson.
-  Licensed under the MIT License (MIT), see
-  http://jedwatson.github.io/classnames
-*/
-
-/**
- * lunr - http://lunrjs.com - A bit like Solr, but much smaller and not as bright - 2.3.8
+ * lunr.Builder
  * Copyright (C) 2019 Oliver Nightingale
- * @license MIT
  */
 
 /*!
- * lunr.utils
+ * lunr.Index
+ * Copyright (C) 2019 Oliver Nightingale
+ */
+
+/*!
+ * lunr.Pipeline
  * Copyright (C) 2019 Oliver Nightingale
  */
 
@@ -21,12 +19,7 @@
  */
 
 /*!
- * lunr.tokenizer
- * Copyright (C) 2019 Oliver Nightingale
- */
-
-/*!
- * lunr.Pipeline
+ * lunr.TokenSet
  * Copyright (C) 2019 Oliver Nightingale
  */
 
@@ -47,21 +40,22 @@
  */
 
 /*!
+ * lunr.tokenizer
+ * Copyright (C) 2019 Oliver Nightingale
+ */
+
+/*!
  * lunr.trimmer
  * Copyright (C) 2019 Oliver Nightingale
  */
 
 /*!
- * lunr.TokenSet
+ * lunr.utils
  * Copyright (C) 2019 Oliver Nightingale
  */
 
-/*!
- * lunr.Index
+/**
+ * lunr - http://lunrjs.com - A bit like Solr, but much smaller and not as bright - 2.3.8
  * Copyright (C) 2019 Oliver Nightingale
- */
-
-/*!
- * lunr.Builder
- * Copyright (C) 2019 Oliver Nightingale
+ * @license MIT
  */
